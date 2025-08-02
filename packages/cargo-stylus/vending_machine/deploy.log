@@ -1,0 +1,10 @@
+🔌 Checking connection to Arbitrum Sepolia...
+✅ Connected to Arbitrum Sepolia.
+🚀 Deploying Vending Machine contract using cargo stylus...
+✅ Vending Machine contract deployed!
+📄 Transaction Hash: 0x8d08c4208de6af40a42ed65835da6c75317d3d6e43f8eded229c19d1986750a1
+🏠 Contract Address: 0x89dd0585c72551fa853bd925d0b120c51591c493
+📦 Generating ABI for the Vending Machine contract...
+✅ ABI saved to stylus-contract.abi
+📁 Deployment info saved to build/vending-machine-deployment-info.json
+🎉 Vending Machine deployed successfully on Arbitrum Sepolia!
